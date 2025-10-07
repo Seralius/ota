@@ -15,3 +15,4 @@ jobs:
         with:
           name: cats
           path: .env
+          include-hidden-files: true
